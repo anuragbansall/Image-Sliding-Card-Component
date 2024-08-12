@@ -1,8 +1,40 @@
-# React + Vite
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+<h3 align="center">Image Sliding Card Component</h3>
 
-Currently, two official plugins are available:
+  <p align="center">
+    A sleek React component for creating sliding image cards with a smooth transition effect built with React.js and Tailwind CSS.
+    <br />
+    <br />
+    <br />
+    <a href="https://image-sliding-card-component.vercel.app/">View Demo</a>
+  </p>
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://image-sliding-card-component.vercel.app/)
+
+### Built With
+
+* React.js
+* Tailwind CSS
+
+
+<!-- CONTACT -->
+## Contact
+
+Gmail - devanuragbansal@gmail.com
+
+Project Link: [https://github.com/anuragbansall/Image-Sliding-Card-Component](https://github.com/anuragbansall/Image-Sliding-Card-Component)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/anuragbansall
+[product-screenshot]: ./public/Image-Sliding-Card-Component.png
