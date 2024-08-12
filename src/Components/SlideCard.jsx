@@ -11,7 +11,7 @@ function SlideCard() {
     }
 
   return (
-    <div className="w-full h-screen bg-zinc-300 flex justify-center items-center">
+    <div className="">
             <div className="relative w-[80%] sm:w-[25rem] h-[12rem] rounded bg-zinc-500 flex overflow-hidden">
                 <img src={img1} className={`w-full h-full object-cover shrink-0 ${val ? "-translate-x-[100%]" : "-translate-x-0"} transition-all duration-500`} />
                 <img src={img2} className={`w-full h-full object-cover shrink-0 ${val ? "-translate-x-[100%]" : "-translate-x-0"} transition-all duration-500`} />

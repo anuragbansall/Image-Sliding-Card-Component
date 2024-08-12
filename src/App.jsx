@@ -3,7 +3,7 @@ import SlideCard from './Components/SlideCard'
 
 function App() {
   return (
-    <div>
+    <div className='w-full h-screen bg-zinc-300 flex justify-center items-center'>
       <SlideCard />
     </div>
   )
