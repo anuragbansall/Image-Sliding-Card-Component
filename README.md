@@ -3,7 +3,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<h3 align="center">Image Sliding Card Component</h3>
+  <a href="https://image-sliding-card-component.vercel.app/">
+    <img src="./public/vite.svg" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Image Sliding Card Component</h3>
 
   <p align="center">
     A sleek React component for creating sliding image cards with a smooth transition effect built with React.js and Tailwind CSS.
